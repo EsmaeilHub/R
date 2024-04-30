@@ -9,6 +9,6 @@
 5. [Correlation](#correlation)
 
 ## Libraries
-library(tidyverse)
-library(ggplot2)
-library(dplyr)
+- library(tidyverse)
+- library(ggplot2)
+- library(dplyr)
