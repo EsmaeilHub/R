@@ -1,3 +1,4 @@
+**Note:** If you cannot see the file, click [here](https://www.kaggle.com/code/ishmaelesmaeilrezaei/eda-of-healthcare-dataset-in-r).
 # EDA of Healthcare Dataset in R
 <div>
   <img src="https://github.com/ishmaelrezaei/R/raw/main/Healthcare%20Dataset%20in%20R/FIGs/DaysInHospital.png" alt="Figure 1" style="width: 45%; display: inline-block;">
